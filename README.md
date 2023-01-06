@@ -1,5 +1,5 @@
 # Gram
-A simple text editor written in Rust
+A simple text editor written in Rust.
 
 ## Motivation
 This is a personal project mainly to practice some Rust by implementing a text editor. I'm follow the Hecto guide written by Philipp Flenker mentioned below in the sources. 
